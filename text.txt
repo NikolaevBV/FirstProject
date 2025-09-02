@@ -1,1 +1,1 @@
-hello
+hellotext\n
